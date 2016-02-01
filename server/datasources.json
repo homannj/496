@@ -1,0 +1,16 @@
+{
+  "db": {
+    "name": "db",
+    "connector": "memory"
+  },
+  "MongoDB": {
+    "host": "ec2-54-153-91-203.us-west-1.compute.amazonaws.com",
+    "port": 27017,
+    "database": "cs496",
+    "username": "cs496",
+    "password": "OSU2016",
+    "name": "MongoDB",
+    "connector": "mongodb",
+    "user": "cs496"
+  }
+}
